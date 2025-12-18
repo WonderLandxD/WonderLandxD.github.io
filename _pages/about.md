@@ -122,8 +122,7 @@ Yuxuan Chen*, <strong>Jiawen Li*</strong>, Lianghui Zhu*, Yang Xu, Tian Guan, Hu
 ### Using optical skyrmions to assess vectorial adaptive optics capabilities in the presence of complex aberrations
 <p style="line-height:1.0">
 <font size="2">
-Yifei Ma*, Zimo Zhao*, Yuanxing Shen*, Binguo Chen, An Aloysius Wang, Yuxi Cai, Ji Qin, Runchen Zhang, Yunqi Zhang, Jiahe Cui, Bangshan Sun, <strong>Jiawen Li</strong>, Yuzhu Shi, Liangyu Deng, Honghui He#, Lin Luo, Yonghong He#, Yun Zhang, Ben Dai, Daniel J Royston, Steve J Elston, Stephen M Morris, Martin J Booth, Chao He# <br />
-<strong>Science Advances</strong>, 2025, <a href="https://www.science.org/doi/full/10.1126/sciadv.adv7904">Journal Paper</a>
+Yifei Ma*, Zimo Zhao*, Yuanxing Shen*, Binguo Chen, An Aloysius Wang, Yuxi Cai, Ji Qin, Runchen Zhang, Yunqi Zhang, Jiahe Cui, Bangshan Sun, <strong>Jiawen Li</strong>, Yuzhu Shi, Liangyu Deng, Honghui He#, Lin Luo, Yonghong He#, Yun Zhang, Ben Dai, Daniel J Royston, Steve J Elston, Stephen M Morris, Martin J Booth, Chao He#, <strong>Science Advances</strong>, 2025, <a href="https://www.science.org/doi/full/10.1126/sciadv.adv7904">Journal Paper</a>
 <br />
 </font>
 </p>
@@ -132,8 +131,7 @@ Yifei Ma*, Zimo Zhao*, Yuanxing Shen*, Binguo Chen, An Aloysius Wang, Yuxi Cai, 
 ### Comprehensive benchmark dataset for pathological lymph node metastasis in breast cancer sections
 <p style="line-height:1.0">
 <font size="2">
-Xitong Ling*, Yuanyuan Lei*, <strong>Jiawen Li*</strong>, Junru Cheng, Wenting Huang, Tian Guan, Jian Guan#, Yonghong He# <br />
-<strong>Scientific Data</strong>, 2025, <a href="https://www.nature.com/articles/s41597-025-05586-5">Journal Paper</a>
+Xitong Ling*, Yuanyuan Lei*, <strong>Jiawen Li*</strong>, Junru Cheng, Wenting Huang, Tian Guan, Jian Guan#, Yonghong He#, <strong>Scientific Data</strong>, 2025, <a href="https://www.nature.com/articles/s41597-025-05586-5">Journal Paper</a>
 <br />
 </font>
 </p>
@@ -142,8 +140,7 @@ Xitong Ling*, Yuanyuan Lei*, <strong>Jiawen Li*</strong>, Junru Cheng, Wenting H
 ### A reconfigurable arbitrary retarder array as complex structured matter
 <p style="line-height:1.0">
 <font size="2">
-Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Luo#, Tade Marozsak, An Aloysius Wang, Rui Xu, Peixiang Huang, <strong>Jiawen Li</strong>, Xuke Qiu, Yunqi Zhang, Bangshan Sun, Jiahe Cui, Yuxi Cai, Yun Zhang, Andong Wang, Mohan Wang, Patrick Salter, Julian AJ Fells, Ben Dai, Shaoxiong Liu, Limei Guo, Yonghong He, Hui Ma, Daniel J Royston, Steve J Elston, Qiwen Zhan, Chengwei Qiu, Stephen M Morris, Martin J Booth, Andrew Forbes <br />
-<strong>Nature Communications</strong>, 2025, <a href="https://www.nature.com/articles/s41467-025-59846-4">Journal Paper</a>
+Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Luo#, Tade Marozsak, An Aloysius Wang, Rui Xu, Peixiang Huang, <strong>Jiawen Li</strong>, Xuke Qiu, Yunqi Zhang, Bangshan Sun, Jiahe Cui, Yuxi Cai, Yun Zhang, Andong Wang, Mohan Wang, Patrick Salter, Julian AJ Fells, Ben Dai, Shaoxiong Liu, Limei Guo, Yonghong He, Hui Ma, Daniel J Royston, Steve J Elston, Qiwen Zhan, Chengwei Qiu, Stephen M Morris, Martin J Booth, Andrew Forbes, <strong>Nature Communications</strong>, 2025, <a href="https://www.nature.com/articles/s41467-025-59846-4">Journal Paper</a>
 <br />
 </font>
 </p>
@@ -152,8 +149,7 @@ Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Lu
 ### Deeptree: Pathological image classification through imitating tree-like strategies of pathologists
 <p style="line-height:1.0">
 <font size="2">
-<strong>Jiawen Li*</strong>, Junru Cheng*, Lingqin Meng, Hui Yan, Yonghong He, Huijuan Shi#, Tian Guan#, Anjia Han# <br />
-<strong>IEEE Transactions on Medical Imaging</strong>, 2024, <a href="https://ieeexplore.ieee.org/abstract/document/10354387">Journal Paper</a>
+<strong>Jiawen Li*</strong>, Junru Cheng*, Lingqin Meng, Hui Yan, Yonghong He, Huijuan Shi#, Tian Guan#, Anjia Han#, <strong>IEEE Transactions on Medical Imaging</strong>, 2024, <a href="https://ieeexplore.ieee.org/abstract/document/10354387">Journal Paper</a>
 <br />
 </font>
 </p>
@@ -166,8 +162,7 @@ Selected Conference Publication
 ### Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology
 <p style="line-height:1.0">
 <font size="2">
-Yuxuan Chen*, <strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling, Tian Guan#, Anjia Han#, Yonghong He# <br />
-<strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025, <a href="Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology">Accepted Conference Paper (Preprint link)</a>
+Yuxuan Chen*, <strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling, Tian Guan#, Anjia Han#, Yonghong He#, <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025, <a href="Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology">Accepted Conference Paper (Preprint link)</a>
 <br />
 </font>
 </p>
@@ -176,8 +171,7 @@ Yuxuan Chen*, <strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling, Tian Guan#, A
 ### RetMIL: Retentive Multiple Instance Learning for Histopathological Whole Slide Image Classification
 <p style="line-height:1.0">
 <font size="2">
-Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang, Tian Guan, Anjia Han#, Yonghong He# <br />
-<strong>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2024, <a href="https://link.springer.com/chapter/10.1007/978-3-031-72083-3_41">Conference Paper</a>
+Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang, Tian Guan, Anjia Han#, Yonghong He#, <strong>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2024, <a href="https://link.springer.com/chapter/10.1007/978-3-031-72083-3_41">Conference Paper</a>
 <br />
 </font>
 </p>
@@ -186,8 +180,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 ### Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis
 <p style="line-height:1.0">
 <font size="2">
-<strong>Jiawen Li*</strong>, Yuxuan Chen*, Hongbo Chu*, Qiehe Sun, Tian Guan, Anjia Han#, Yonghong He# <br />
-<strong>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</strong>, 2024, <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_Dynamic_Graph_Representation_with_Knowledge-aware_Attention_for_Histopathology_Whole_Slide_CVPR_2024_paper.html">Conference Paper</a>
+<strong>Jiawen Li*</strong>, Yuxuan Chen*, Hongbo Chu*, Qiehe Sun, Tian Guan, Anjia Han#, Yonghong He#, <strong>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</strong>, 2024, <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_Dynamic_Graph_Representation_with_Knowledge-aware_Attention_for_Histopathology_Whole_Slide_CVPR_2024_paper.html">Conference Paper</a>
 <br />
 </font>
 </p>
@@ -196,8 +189,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 ### Classification of Myopic Maculopathy Images with Self-supervised Driven Multiple Instance Learning Network
 <p style="line-height:1.0">
 <font size="2">
-<strong>Jiawen Li*</strong>, Jaehyeon Soon*, Qilai Zhang*, Qifan Zhang, Yonghong He# <br />
-<strong>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023, <a href="https://link.springer.com/chapter/10.1007/978-3-031-54857-4_9">Conference Paper</a>
+<strong>Jiawen Li*</strong>, Jaehyeon Soon*, Qilai Zhang*, Qifan Zhang, Yonghong He#, <strong>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023, <a href="https://link.springer.com/chapter/10.1007/978-3-031-54857-4_9">Conference Paper</a>
 <br />
 </font>
 </p>
@@ -208,8 +200,7 @@ Preprints
 ### StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology
 <p style="line-height:1.0">
 <font size="2">
-<strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling*, Yongqiang Lv, Yuxuan Chen, Yizhi Wang, Tian Guan#, Yifei Liu#, Yonghong He# <br />
-arXiv preprint arXiv:2512.10326, 2025/12/12, <a href="https://arxiv.org/abs/2512.10326">Preprint Paper</a>
+<strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling*, Yongqiang Lv, Yuxuan Chen, Yizhi Wang, Tian Guan#, Yifei Liu#, Yonghong He#, arXiv preprint arXiv:2512.10326, 2025/12/12, <a href="https://arxiv.org/abs/2512.10326">Preprint Paper</a>
 <br />
 </font>
 </p>
@@ -218,8 +209,7 @@ arXiv preprint arXiv:2512.10326, 2025/12/12, <a href="https://arxiv.org/abs/2512
 ### Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis
 <p style="line-height:1.0">
 <font size="2">
-Xitong Ling*, Yifeng Ping*, <strong>Jiawen Li*</strong>, Jing Peng, Yuxuan Chen, Minxi Ouyang, Yizhi Wang, Yonghong He, Tian Guan#, Xiaoping Liu#, Lianghui Zhu# <br />
-arXiv preprint arXiv:2503.00915, 2025/3/2, <a href="https://arxiv.org/abs/2503.00915">Preprint Paper</a>
+Xitong Ling*, Yifeng Ping*, <strong>Jiawen Li*</strong>, Jing Peng, Yuxuan Chen, Minxi Ouyang, Yizhi Wang, Yonghong He, Tian Guan#, Xiaoping Liu#, Lianghui Zhu#, arXiv preprint arXiv:2503.00915, 2025/3/2, <a href="https://arxiv.org/abs/2503.00915">Preprint Paper</a>
 <br />
 </font>
 </p>
@@ -228,8 +218,7 @@ arXiv preprint arXiv:2503.00915, 2025/3/2, <a href="https://arxiv.org/abs/2503.0
 ### Can We Simplify Slide-level Fine-tuning of Pathology Foundation Models?
 <p style="line-height:1.0">
 <font size="2">
-<strong>Jiawen Li*</strong>, Jiali Hu*, Qiehe Sun, Renao Yan, Minxi Ouyang, Tian Guan, Anjia Han, Chao He#, Yonghong He# <br />
-arXiv preprint arXiv:2502.20823, 2025/2/28, <a href="https://arxiv.org/abs/2502.20823">Preprint Paper</a>
+<strong>Jiawen Li*</strong>, Jiali Hu*, Qiehe Sun, Renao Yan, Minxi Ouyang, Tian Guan, Anjia Han, Chao He#, Yonghong He#, arXiv preprint arXiv:2502.20823, 2025/2/28, <a href="https://arxiv.org/abs/2502.20823">Preprint Paper</a>
 <br />
 </font>
 </p>
@@ -238,8 +227,7 @@ arXiv preprint arXiv:2502.20823, 2025/2/28, <a href="https://arxiv.org/abs/2502.
 ### Unlocking adaptive digital pathology through dynamic feature learning
 <p style="line-height:1.0">
 <font size="2">
-<strong>Jiawen Li*</strong>, Tian Guan*, Qingxin Xia, Yizhi Wang, Xitong Ling, Jing Li, Qiang Huang, Zihan Wang, Zhiyuan Shen, Yifei Ma, Zimo Zhao, Zhe Lei, Tiandong Chen, Junbo Tan, Xueqian Wang, Xiu-Wu Bian#, Zhe Wang#, Lingchuan Guo#, Chao He#, Yonghong He# <br />
-arXiv preprint arXiv:2412.20430, 2024/12/29, <a href="https://arxiv.org/abs/2412.20430">Preprint Paper</a>
+<strong>Jiawen Li*</strong>, Tian Guan*, Qingxin Xia, Yizhi Wang, Xitong Ling, Jing Li, Qiang Huang, Zihan Wang, Zhiyuan Shen, Yifei Ma, Zimo Zhao, Zhe Lei, Tiandong Chen, Junbo Tan, Xueqian Wang, Xiu-Wu Bian#, Zhe Wang#, Lingchuan Guo#, Chao He#, Yonghong He#, arXiv preprint arXiv:2412.20430, 2024/12/29, <a href="https://arxiv.org/abs/2412.20430">Preprint Paper</a>
 <br />
 </font>
 </p>
