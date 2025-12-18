@@ -84,7 +84,7 @@ Selected Journal Publication
   float: left;
   margin: 5px 10px;
   width: 160px;
-  height: 250px;
+  height: 220px;
   object-fit: contain;
   object-position: 50% 50%;
   background-color: #fff;
