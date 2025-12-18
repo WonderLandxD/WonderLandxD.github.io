@@ -48,128 +48,6 @@ Selected Journal Publication
   float: left;
   margin: 5px 10px;
   width: 160px;
-  height: 200px;
-  object-fit: contain;
-  object-position: 50% 50%;
-  background-color: #fff;
-  display: block;
-}
-</style>
-<style>
-.teaser-img-tall140 {
-  float: left;
-  margin: 5px 10px;
-  width: 160px;
-  height: 140px;
-  object-fit: contain;
-  object-position: 50% 50%;
-  background-color: #fff;
-  display: block;
-}
-</style>
-<style>
-.teaser-img-tall {
-  float: left;
-  margin: 5px 10px;
-  width: 160px;
-  height: 160px;
-  object-fit: contain;
-  object-position: 50% 50%;
-  background-color: #fff;
-  display: block;
-}
-</style>
-<style>
-.teaser-img-tall200 {
-  float: left;
-  margin: 5px 10px;
-  width: 160px;
-  height: 200px;
-  object-fit: contain;
-  object-position: 50% 50%;
-  background-color: #fff;
-  display: block;
-}
-</style>
-<img class="teaser-img" src="../images/my_own_figs/journal/pathtree.png">
-### Diagnostic text-guided representation learning in hierarchical classification for pathological whole slide image
-<p style="line-height:1.0">
-<font size="2">
-<strong>Jiawen Li*</strong>, Qiehe Sun, Renao Yan, Yizhi Wang, Yuqiu Fu, Yani Wei, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
-<strong>Medical Image Analysis</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004402">Journal Paper</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/my_own_figs/journal/pathorchestra.png">
-### Pathorchestra: A comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks
-<p style="line-height:1.0">
-<font size="2">
-Fang Yan*#, Jianfeng Wu*, <strong>Jiawen Li*</strong>, Wei Wang*, Yirong Chen, Linda Wei, Jiaxuan Lu, Wen Chen, Zizhao Gao, Jianan Li, Heng Li, Hong Yan, Jiabo Ma, Minda Chen, Yang Lu, Qing Chen, Yizhi Wang, Xitong Ling, Xuenian Wang, Zihan Wang, Qiang Huang, Shengyi Hua, Mianxin Liu, Lei Ma, Tian Shen, Xiaofan Zhang#, Yonghong He#, Hao Chen#, Shaoting Zhang#, Zhe Wang# <br />
-<strong>NPJ Digital Medicine</strong>, 2025, <a href="https://www.nature.com/articles/s41746-025-02027-w">Journal Paper</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/my_own_figs/journal/dyhg.png">
-### Dynamic hypergraph representation for bone metastasis analysis
-<p style="line-height:1.0">
-<font size="2">
-Yuxuan Chen*, <strong>Jiawen Li*</strong>, Lianghui Zhu*, Yang Xu, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
-<strong>Computer Methods and Programs in Biomedicine</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S0169260725003839">Journal Paper</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/my_own_figs/journal/vao.png">
-### Using optical skyrmions to assess vectorial adaptive optics capabilities in the presence of complex aberrations
-<p style="line-height:1.0">
-<font size="2">
-Yifei Ma*, Zimo Zhao*, Yuanxing Shen*, Binguo Chen, An Aloysius Wang, Yuxi Cai, Ji Qin, Runchen Zhang, Yunqi Zhang, Jiahe Cui, Bangshan Sun, <strong>Jiawen Li</strong>, Yuzhu Shi, Liangyu Deng, Honghui He#, Lin Luo, Yonghong He#, Yun Zhang, Ben Dai, Daniel J Royston, Steve J Elston, Stephen M Morris, Martin J Booth, Chao He# <br />
-<strong>Science Advances</strong>, 2025, <a href="https://www.science.org/doi/full/10.1126/sciadv.adv7904">Journal Paper</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/my_own_figs/journal/camelyon+.png">
-### Comprehensive benchmark dataset for pathological lymph node metastasis in breast cancer sections
-<p style="line-height:1.0">
-<font size="2">
-Xitong Ling*, Yuanyuan Lei*, <strong>Jiawen Li*</strong>, Junru Cheng, Wenting Huang, Tian Guan, Jian Guan#, Yonghong He# <br />
-<strong>Scientific Data</strong>, 2025, <a href="https://www.nature.com/articles/s41597-025-05586-5">Journal Paper</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/my_own_figs/journal/modulator.png">
-### A reconfigurable arbitrary retarder array as complex structured matter
-<p style="line-height:1.0">
-<font size="2">
-Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Luo#, Tade Marozsak, An Aloysius Wang, Rui Xu, Peixiang Huang, <strong>Jiawen Li</strong>, Xuke Qiu, Yunqi Zhang, Bangshan Sun, Jiahe Cui, Yuxi Cai, Yun Zhang, Andong Wang, Mohan Wang, Patrick Salter, Julian AJ Fells, Ben Dai, Shaoxiong Liu, Limei Guo, Yonghong He, Hui Ma, Daniel J Royston, Steve J Elston, Qiwen Zhan, Chengwei Qiu, Stephen M Morris, Martin J Booth, Andrew Forbes <br />
-<strong>Nature Communications</strong>, 2025, <a href="https://www.nature.com/articles/s41467-025-59846-4">Journal Paper</a>
-<br />
-</font>
-</p>
------
-<img class="teaser-img" src="../images/my_own_figs/journal/deeptree.png">
-### Deeptree: Pathological image classification through imitating tree-like strategies of pathologists
-<p style="line-height:1.0">
-<font size="2">
-<strong>Jiawen Li*</strong>, Junru Cheng*, Lingqin Meng, Hui Yan, Yonghong He, Huijuan Shi#, Tian Guan#, Anjia Han# <br />
-<strong>IEEE Transactions on Medical Imaging</strong>, 2024, <a href="https://ieeexplore.ieee.org/abstract/document/10354387">Journal Paper</a>
-<br />
-</font>
-</p>
-
-
-
-Selected Conference Publication
------
-<style>
-.teaser-img {
-  float: left;
-  margin: 5px 10px;
-  width: 160px;
   height: 110px;
   object-fit: contain;
   object-position: 50% 50%;
@@ -213,7 +91,81 @@ Selected Conference Publication
   display: block;
 }
 </style>
-<img class="teaser-img" src="../images/my_own_figs/conference/proalign.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/journal/pathtree.png">
+### Diagnostic text-guided representation learning in hierarchical classification for pathological whole slide image
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Qiehe Sun, Renao Yan, Yizhi Wang, Yuqiu Fu, Yani Wei, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
+<strong>Medical Image Analysis</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004402">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall200" src="../images/my_own_figs/journal/pathorchestra.png">
+### Pathorchestra: A comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks
+<p style="line-height:1.0">
+<font size="2">
+Fang Yan*#, Jianfeng Wu*, <strong>Jiawen Li*</strong>, Wei Wang*, Yirong Chen, Linda Wei, Jiaxuan Lu, Wen Chen, Zizhao Gao, Jianan Li, Heng Li, Hong Yan, Jiabo Ma, Minda Chen, Yang Lu, Qing Chen, Yizhi Wang, Xitong Ling, Xuenian Wang, Zihan Wang, Qiang Huang, Shengyi Hua, Mianxin Liu, Lei Ma, Tian Shen, Xiaofan Zhang#, Yonghong He#, Hao Chen#, Shaoting Zhang#, Zhe Wang# <br />
+<strong>NPJ Digital Medicine</strong>, 2025, <a href="https://www.nature.com/articles/s41746-025-02027-w">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall200" src="../images/my_own_figs/journal/dyhg.png">
+### Dynamic hypergraph representation for bone metastasis analysis
+<p style="line-height:1.0">
+<font size="2">
+Yuxuan Chen*, <strong>Jiawen Li*</strong>, Lianghui Zhu*, Yang Xu, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
+<strong>Computer Methods and Programs in Biomedicine</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S0169260725003839">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall200" src="../images/my_own_figs/journal/vao.png">
+### Using optical skyrmions to assess vectorial adaptive optics capabilities in the presence of complex aberrations
+<p style="line-height:1.0">
+<font size="2">
+Yifei Ma*, Zimo Zhao*, Yuanxing Shen*, Binguo Chen, An Aloysius Wang, Yuxi Cai, Ji Qin, Runchen Zhang, Yunqi Zhang, Jiahe Cui, Bangshan Sun, <strong>Jiawen Li</strong>, Yuzhu Shi, Liangyu Deng, Honghui He#, Lin Luo, Yonghong He#, Yun Zhang, Ben Dai, Daniel J Royston, Steve J Elston, Stephen M Morris, Martin J Booth, Chao He# <br />
+<strong>Science Advances</strong>, 2025, <a href="https://www.science.org/doi/full/10.1126/sciadv.adv7904">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall200" src="../images/my_own_figs/journal/camelyon+.png">
+### Comprehensive benchmark dataset for pathological lymph node metastasis in breast cancer sections
+<p style="line-height:1.0">
+<font size="2">
+Xitong Ling*, Yuanyuan Lei*, <strong>Jiawen Li*</strong>, Junru Cheng, Wenting Huang, Tian Guan, Jian Guan#, Yonghong He# <br />
+<strong>Scientific Data</strong>, 2025, <a href="https://www.nature.com/articles/s41597-025-05586-5">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall200" src="../images/my_own_figs/journal/modulator.png">
+### A reconfigurable arbitrary retarder array as complex structured matter
+<p style="line-height:1.0">
+<font size="2">
+Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Luo#, Tade Marozsak, An Aloysius Wang, Rui Xu, Peixiang Huang, <strong>Jiawen Li</strong>, Xuke Qiu, Yunqi Zhang, Bangshan Sun, Jiahe Cui, Yuxi Cai, Yun Zhang, Andong Wang, Mohan Wang, Patrick Salter, Julian AJ Fells, Ben Dai, Shaoxiong Liu, Limei Guo, Yonghong He, Hui Ma, Daniel J Royston, Steve J Elston, Qiwen Zhan, Chengwei Qiu, Stephen M Morris, Martin J Booth, Andrew Forbes <br />
+<strong>Nature Communications</strong>, 2025, <a href="https://www.nature.com/articles/s41467-025-59846-4">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+<img class="teaser-img-tall200" src="../images/my_own_figs/journal/deeptree.png">
+### Deeptree: Pathological image classification through imitating tree-like strategies of pathologists
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Junru Cheng*, Lingqin Meng, Hui Yan, Yonghong He, Huijuan Shi#, Tian Guan#, Anjia Han# <br />
+<strong>IEEE Transactions on Medical Imaging</strong>, 2024, <a href="https://ieeexplore.ieee.org/abstract/document/10354387">Journal Paper</a>
+<br />
+</font>
+</p>
+
+
+
+Selected Conference Publication
+-----
+<img class="teaser-img-tall200" src="../images/my_own_figs/conference/proalign.png">
 ### Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology
 <p style="line-height:1.0">
 <font size="2">
@@ -223,7 +175,7 @@ Yuxuan Chen*, <strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling, Tian Guan#, A
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/my_own_figs/conference/retmil.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/conference/retmil.png">
 ### RetMIL: Retentive Multiple Instance Learning for Histopathological Whole Slide Image Classification
 <p style="line-height:1.0">
 <font size="2">
@@ -233,7 +185,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/my_own_figs/conference/wikg.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/conference/wikg.png">
 ### Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis
 <p style="line-height:1.0">
 <font size="2">
@@ -243,7 +195,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/my_own_figs/conference/milnet.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/conference/milnet.png">
 ### Classification of Myopic Maculopathy Images with Self-supervised Driven Multiple Instance Learning Network
 <p style="line-height:1.0">
 <font size="2">
@@ -255,7 +207,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 
 Preprints
 -----
-<img class="teaser-img" src="../images/my_own_figs/arxiv/stainnet.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/stainnet.png">
 ### StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology
 <p style="line-height:1.0">
 <font size="2">
@@ -265,7 +217,7 @@ arXiv preprint arXiv:2512.10326, 2025/12/12, <a href="https://arxiv.org/abs/2512
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/my_own_figs/arxiv/mde_mil.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/mde_mil.png">
 ### Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis
 <p style="line-height:1.0">
 <font size="2">
@@ -275,7 +227,7 @@ arXiv preprint arXiv:2503.00915, 2025/3/2, <a href="https://arxiv.org/abs/2503.0
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/my_own_figs/arxiv/simlp.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/simlp.png">
 ### Can We Simplify Slide-level Fine-tuning of Pathology Foundation Models?
 <p style="line-height:1.0">
 <font size="2">
@@ -285,7 +237,7 @@ arXiv preprint arXiv:2502.20823, 2025/2/28, <a href="https://arxiv.org/abs/2502.
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/my_own_figs/arxiv/pathfit.png">
+<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/pathfit.png">
 ### Unlocking adaptive digital pathology through dynamic feature learning
 <p style="line-height:1.0">
 <font size="2">
