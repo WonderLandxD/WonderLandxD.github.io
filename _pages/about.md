@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a Ph.D. student at [Institute of Biomedical and Health Engineering](https://ibhe.sigs.tsinghua.edu.cn/), Tsinghua Shenzhen International Graduate School ([SIGS](https://www.sigs.tsinghua.edu.cn/en/)), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yonghong He](https://www.sigs.tsinghua.edu.cn/hyh_en/main.htm). My research focuses on computational pathology, with a particular emphasis on modeling and analyzing gigapixel-level whole-slide images. I am also interested in biomedical optical imaging.
+Hi, I am currently a Ph.D. student at [Institute of Biomedical and Health Engineering](https://ibhe.sigs.tsinghua.edu.cn/), Tsinghua Shenzhen International Graduate School ([SIGS](https://www.sigs.tsinghua.edu.cn/en/)), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yonghong He](https://www.sigs.tsinghua.edu.cn/hyh_en/main.htm). My research focuses on computational pathology, with a particular emphasis on representation and analyzing gigapixel-level whole-slide images. I am also interested in biomedical optical imaging.
 
 I obtained my Bachelor of Science degree from [Cuiying Honors College](https://chc.lzu.edu.cn/), [Lanzhou University](https://global.lzu.edu.cn/) in 2021, and obtained my Master of Engineering degree from [Open FIESTA](https://www.fiesta.tsinghua.edu.cn/) at Tsinghua SIGS in 2024. I was honored to receive the China National Scholarship in 2025.
 
