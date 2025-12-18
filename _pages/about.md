@@ -29,7 +29,7 @@ Ph.D. student in Biomedical Engineering<br />
 <font size="2">
 Aug 2021 - June 2024<br />
 M.E. in Biomedical Engineering<br /> 
-</font>
+</font> 
 </p>
 -----
 <img style="float: left; margin:10px 10px" src="../images/my_own_figs/lzu_logo.png" width="160" height="140">
