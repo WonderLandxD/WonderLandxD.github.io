@@ -95,8 +95,7 @@ Selected Journal Publication
 ### Diagnostic text-guided representation learning in hierarchical classification for pathological whole slide image
 <p style="line-height:1.0">
 <font size="2">
-<strong>Jiawen Li*</strong>, Qiehe Sun, Renao Yan, Yizhi Wang, Yuqiu Fu, Yani Wei, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
-<strong>Medical Image Analysis</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004402">Journal Paper</a>
+<strong>Jiawen Li*</strong>, Qiehe Sun, Renao Yan, Yizhi Wang, Yuqiu Fu, Yani Wei, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han#, <strong>Medical Image Analysis</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004402">Journal Paper</a>
 <br />
 </font>
 </p>
@@ -105,8 +104,7 @@ Selected Journal Publication
 ### Pathorchestra: A comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks
 <p style="line-height:1.0">
 <font size="2">
-Fang Yan*#, Jianfeng Wu*, <strong>Jiawen Li*</strong>, Wei Wang*, Yirong Chen, Linda Wei, Jiaxuan Lu, Wen Chen, Zizhao Gao, Jianan Li, Heng Li, Hong Yan, Jiabo Ma, Minda Chen, Yang Lu, Qing Chen, Yizhi Wang, Xitong Ling, Xuenian Wang, Zihan Wang, Qiang Huang, Shengyi Hua, Mianxin Liu, Lei Ma, Tian Shen, Xiaofan Zhang#, Yonghong He#, Hao Chen#, Shaoting Zhang#, Zhe Wang# <br />
-<strong>NPJ Digital Medicine</strong>, 2025, <a href="https://www.nature.com/articles/s41746-025-02027-w">Journal Paper</a>
+Fang Yan*#, Jianfeng Wu*, <strong>Jiawen Li*</strong>, Wei Wang*, Yirong Chen, Linda Wei, Jiaxuan Lu, Wen Chen, Zizhao Gao, Jianan Li, Heng Li, Hong Yan, Jiabo Ma, Minda Chen, Yang Lu, Qing Chen, Yizhi Wang, Xitong Ling, Xuenian Wang, Zihan Wang, Qiang Huang, Shengyi Hua, Mianxin Liu, Lei Ma, Tian Shen, Xiaofan Zhang#, Yonghong He#, Hao Chen#, Shaoting Zhang#, Zhe Wang#, <strong>NPJ Digital Medicine</strong>, 2025, <a href="https://www.nature.com/articles/s41746-025-02027-w">Journal Paper</a>
 <br />
 </font>
 </p>
@@ -115,8 +113,7 @@ Fang Yan*#, Jianfeng Wu*, <strong>Jiawen Li*</strong>, Wei Wang*, Yirong Chen, L
 ### Dynamic hypergraph representation for bone metastasis analysis
 <p style="line-height:1.0">
 <font size="2">
-Yuxuan Chen*, <strong>Jiawen Li*</strong>, Lianghui Zhu*, Yang Xu, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
-<strong>Computer Methods and Programs in Biomedicine</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S0169260725003839">Journal Paper</a>
+Yuxuan Chen*, <strong>Jiawen Li*</strong>, Lianghui Zhu*, Yang Xu, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han#, <strong>Computer Methods and Programs in Biomedicine</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S0169260725003839">Journal Paper</a>
 <br />
 </font>
 </p>
