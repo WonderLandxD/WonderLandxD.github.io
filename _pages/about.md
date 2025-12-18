@@ -28,7 +28,7 @@ Ph.D. student in Biomedical Engineering<br />
 <p style="line-height:1.0">
 <font size="2">
 Aug 2021 - June 2024<br />
-M.S. in Biomedical Engineering<br />
+M.E. in Biomedical Engineering<br /> 
 </font>
 </p>
 -----
