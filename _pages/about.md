@@ -233,8 +233,8 @@ Xitong Ling*, Yifeng Ping*, <strong>Jiawen Li*</strong>, Jing Peng, Yuxuan Chen,
 </p>
 
 
-Teaching 
+Teaching Assistant
 -----
-∙ Teaching Assistant: Artificial Intelligence and Innovative Design Capstone Project, SIGS, THU, 2025 Autumn<br />
-∙ Teaching Assistant: Interdisciplinary Innovation Practice Course - Digital Healthcare, SIGS, THU, 2025 Spring<br />
-∙ Teaching Assistant: Advanced Numerical Analysis, SIGS, THU, 2024 Autumn
+∙ Artificial Intelligence and Innovative Design Capstone Project, SIGS, THU, 2025 Autumn<br />
+∙ Interdisciplinary Innovation Practice Course - Digital Healthcare, SIGS, THU, 2025 Spring<br />
+∙ Advanced Numerical Analysis, SIGS, THU, 2024 Autumn
