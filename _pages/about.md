@@ -48,7 +48,7 @@ Selected Journal Publication
   float: left;
   margin: 5px 10px;
   width: 160px;
-  height: 110px;
+  height: 130px;
   object-fit: contain;
   object-position: 50% 50%;
   background-color: #fff;
@@ -265,7 +265,7 @@ arXiv preprint arXiv:2512.10326, 2025/12/12, <a href="https://arxiv.org/abs/2512
 </font>
 </p>
 -----
-<img class="teaser-img" src="../images/my_own_figs/arxiv/mdemil.png">
+<img class="teaser-img" src="../images/my_own_figs/arxiv/mde_mil.png">
 ### Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis
 <p style="line-height:1.0">
 <font size="2">
