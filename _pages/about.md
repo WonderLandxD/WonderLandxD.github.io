@@ -91,7 +91,7 @@ Selected Journal Publication
   display: block;
 }
 </style>
-<img class="teaser-img-tall200" src="../images/my_own_figs/journal/pathtree.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/journal/pathtree.png">
 ### Diagnostic text-guided representation learning in hierarchical classification for pathological whole slide image
 <p style="line-height:1.0">
 <font size="2">
@@ -101,7 +101,7 @@ Selected Journal Publication
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/journal/pathorchestra.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/journal/pathorchestra.png">
 ### Pathorchestra: A comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks
 <p style="line-height:1.0">
 <font size="2">
@@ -111,7 +111,7 @@ Fang Yan*#, Jianfeng Wu*, <strong>Jiawen Li*</strong>, Wei Wang*, Yirong Chen, L
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/journal/dyhg.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/journal/dyhg.png">
 ### Dynamic hypergraph representation for bone metastasis analysis
 <p style="line-height:1.0">
 <font size="2">
@@ -121,7 +121,7 @@ Yuxuan Chen*, <strong>Jiawen Li*</strong>, Lianghui Zhu*, Yang Xu, Tian Guan, Hu
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/journal/vao.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/journal/vao.png">
 ### Using optical skyrmions to assess vectorial adaptive optics capabilities in the presence of complex aberrations
 <p style="line-height:1.0">
 <font size="2">
@@ -131,7 +131,7 @@ Yifei Ma*, Zimo Zhao*, Yuanxing Shen*, Binguo Chen, An Aloysius Wang, Yuxi Cai, 
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/journal/camelyon+.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/journal/camelyon+.png">
 ### Comprehensive benchmark dataset for pathological lymph node metastasis in breast cancer sections
 <p style="line-height:1.0">
 <font size="2">
@@ -141,7 +141,7 @@ Xitong Ling*, Yuanyuan Lei*, <strong>Jiawen Li*</strong>, Junru Cheng, Wenting H
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/journal/modulator.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/journal/modulator.png">
 ### A reconfigurable arbitrary retarder array as complex structured matter
 <p style="line-height:1.0">
 <font size="2">
@@ -151,7 +151,7 @@ Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Lu
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/journal/deeptree.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/journal/deeptree.png">
 ### Deeptree: Pathological image classification through imitating tree-like strategies of pathologists
 <p style="line-height:1.0">
 <font size="2">
@@ -165,7 +165,7 @@ Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Lu
 
 Selected Conference Publication
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/conference/proalign.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/conference/proalign.png">
 ### Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology
 <p style="line-height:1.0">
 <font size="2">
@@ -175,7 +175,7 @@ Yuxuan Chen*, <strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling, Tian Guan#, A
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/conference/retmil.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/conference/retmil.png">
 ### RetMIL: Retentive Multiple Instance Learning for Histopathological Whole Slide Image Classification
 <p style="line-height:1.0">
 <font size="2">
@@ -185,7 +185,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/conference/wikg.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/conference/wikg.png">
 ### Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis
 <p style="line-height:1.0">
 <font size="2">
@@ -195,7 +195,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/conference/milnet.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/conference/milnet.png">
 ### Classification of Myopic Maculopathy Images with Self-supervised Driven Multiple Instance Learning Network
 <p style="line-height:1.0">
 <font size="2">
@@ -207,7 +207,7 @@ Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang
 
 Preprints
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/stainnet.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/arxiv/stainnet.png">
 ### StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology
 <p style="line-height:1.0">
 <font size="2">
@@ -217,7 +217,7 @@ arXiv preprint arXiv:2512.10326, 2025/12/12, <a href="https://arxiv.org/abs/2512
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/mde_mil.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/arxiv/mde_mil.png">
 ### Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis
 <p style="line-height:1.0">
 <font size="2">
@@ -227,7 +227,7 @@ arXiv preprint arXiv:2503.00915, 2025/3/2, <a href="https://arxiv.org/abs/2503.0
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/simlp.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/arxiv/simlp.png">
 ### Can We Simplify Slide-level Fine-tuning of Pathology Foundation Models?
 <p style="line-height:1.0">
 <font size="2">
@@ -237,7 +237,7 @@ arXiv preprint arXiv:2502.20823, 2025/2/28, <a href="https://arxiv.org/abs/2502.
 </font>
 </p>
 -----
-<img class="teaser-img-tall200" src="../images/my_own_figs/arxiv/pathfit.png">
+<img class="teaser-img-tall" src="../images/my_own_figs/arxiv/pathfit.png">
 ### Unlocking adaptive digital pathology through dynamic feature learning
 <p style="line-height:1.0">
 <font size="2">
